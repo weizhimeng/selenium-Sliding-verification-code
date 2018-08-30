@@ -18,6 +18,7 @@
  ![](https://github.com/weizhimeng/selenium-Sliding-verification-code/blob/master/shubiaoguiji.png)
  
  相似图像的缓动函数：
+ 
  ![](https://github.com/weizhimeng/selenium-Sliding-verification-code/blob/master/huadong1.png)
  ![](https://github.com/weizhimeng/selenium-Sliding-verification-code/blob/master/huadong2.png)
  
